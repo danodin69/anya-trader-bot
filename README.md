@@ -1,11 +1,11 @@
 # Anya Trading Bot
 
-![Anya Waku Waku](https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif)
+![Anya Waku Waku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V5YjA1d2czam9xajI2b25kOGRwbHNpeDN1amJicHZ5OHM3M3NycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWAcpJsFT9mvrv0e7a/giphy.gif)
 
 
 `version 1.0` 
-`Current trading capabilites Crypto `
-[@anyatraderbot](t.me/anyatraderbot)
+`Current Trading Market Capabilites:  Crypto `
+[@anyatraderbot](https://t.me/anyatraderbot)
 
 Welcome to **Anya Trading Bot**, the sassiest and cutest trading assistant!  Anya’s here to guide you through the wild world of CVEX(for now) trading with a wink, a giggle, and a whole lot of “waku waku!” Whether you’re a newbie needing a hand or a pro firing off quick trades, Anya’s got your back—complete with playful banter and (soon!) some adorable GIFs.
 
@@ -69,7 +69,8 @@ Powered by Telegram, OpenAI, and the CVEX API, Anya’s a blend of tech smarts, 
 ## License
 
 Anya Trading Bot is shared under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). Built by *Dan Odin*, this code’s here for you to peek at and study—give credit if you mention it—but please don’t use, copy, or remix it. It’s all about transparency with a dash of Anya magic!
-Or you know, This license doesn't stop you from copying it, go ahead, copy. Who is gonna know right? — no one. But your mind is gonna know and you will feel like a fraud for all eternity.  
+
+Or you know: This license doesn't stop you from copying it, go ahead, copy. Who is gonna know right? — no one. But your mind is gonna know and you will feel like a fraud for all eternity.  
 
 ## How To Run Anya On Your System
 
@@ -80,7 +81,7 @@ Challenge for you! Figure it out yourself if you want to run her.
 
 - **siomochkin**: for writing the JS CLI [demo](https://github.com/siomochkin/cvex-trading-cli/) through which I was able to go crazy on Anya in a few days. 
 
-Got questions? Hit me up on Twitter/Telegram @danodin69 or visit my [links](bit.ly/m/danodin)—Anya’s too busy spying on the market to reply herself!
+Got questions? Hit me up on Twitter/Telegram @danodin69 or visit my [links](https://bit.ly/m/danodin)—Anya’s too busy spying on the market to reply herself!
 
 ---
 
