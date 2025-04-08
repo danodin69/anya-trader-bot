@@ -4,8 +4,11 @@
 
 
 `version 1.0` 
+
 `Current Trading Market Capabilites:  Crypto `
-[@anyatraderbot](https://t.me/anyatraderbot)
+
+
+chat with her on telegram: [@anyatraderbot](https://t.me/anyatraderbot)
 
 Welcome to **Anya Trading Bot**, the sassiest and cutest trading assistant!  Anya’s here to guide you through the wild world of CVEX(for now) trading with a wink, a giggle, and a whole lot of “waku waku!” Whether you’re a newbie needing a hand or a pro firing off quick trades, Anya’s got your back—complete with playful banter and (soon!) some adorable GIFs.
 
