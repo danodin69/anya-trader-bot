@@ -1,0 +1,6 @@
+# Core dependencies for Anya Trading Bot
+python-telegram-bot==20.6  # Telegram bot framework (async support)
+openai==1.10.0            # OpenAI API for Anya's AI smarts
+requests==2.31.0          # HTTP requests for CVEX API calls
+python-dotenv==1.0.0      # Load environment variables from .env
+
