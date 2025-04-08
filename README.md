@@ -68,6 +68,7 @@ Powered by Telegram, OpenAI, and the CVEX API, Anya’s a blend of tech smarts, 
 
 ### Coming Soon
 - **GIFs!**: Anya’s about to get animated—think “waku waku” dances and “oops” moments. Stay tuned!
+- **PLATFORMS!**: classic trading platfrom integration like Deriv
 
 ## License
 
