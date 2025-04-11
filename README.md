@@ -78,7 +78,7 @@ Or you know: This license doesn't stop you from copying it, go ahead, copy. Who 
 
 ## How To Run Anya On Your System
 
-Not preprared because the source code is view only.
+Not prepared because the source code is view only.
 Challenge for you! Figure it out yourself if you want to run her.
 
 ## Shoutouts
